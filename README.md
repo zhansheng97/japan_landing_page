@@ -1,16 +1,16 @@
 # japan_landing_page
 
-A new Flutter project.
+Reponsive Flutter Web Project based on the UI Design from dribble
+https://dribbble.com/shots/11982983-Japan-Travel-main-screen-animation
 
-## Getting Started
+## Web
+![image](https://user-images.githubusercontent.com/71022967/136673515-e90d8449-d5d0-47f6-945c-aef92c0d5d77.png)
+![image](https://user-images.githubusercontent.com/71022967/136673517-dd218231-e63c-4b0a-8abe-5d903d59bf1a.png)
+![image](https://user-images.githubusercontent.com/71022967/136673520-93b7aacb-6101-4dc7-a1a3-681b4ae7e5e9.png)
+![image](https://user-images.githubusercontent.com/71022967/136673522-7904425b-7e65-4ab6-9bad-3bddcc5ffb1b.png)
 
-This project is a starting point for a Flutter application.
+## Tablet
+![image](https://user-images.githubusercontent.com/71022967/136673528-8d09c889-2e1a-4f06-9b7e-c772dfd8efe6.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mobile
+![image](https://user-images.githubusercontent.com/71022967/136673530-f185ba49-0ade-4b07-8a03-d0be9cd4bb50.png)
